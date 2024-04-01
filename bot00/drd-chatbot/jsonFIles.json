@@ -1,0 +1,285 @@
+---------------------------------------------------------------------
+
+text message from User
+
+--------------------------------------------------------------
+
+
+{
+    "id": "3A7F9990C48FF46E2D89",
+    "object": "message",
+    "event": "message:in:new",
+    "created": 1706883731,
+    "device": {
+        "id": "646f5b15ab5ee824ea9bdd5f",
+        "phone": "+919999121032",
+        "alias": "DRD",
+        "plan": "io-business",
+        "version": 1
+    },
+    "data": {
+        "id": "3A7F9990C48FF46E2D89",
+        "type": "text",
+        "flow": "inbound",
+        "status": "active",
+        "ack": "delivered",
+        "from": "918789863326@c.us",
+        "fromNumber": "+918789863326",
+        "to": "919999121032@c.us",
+        "toNumber": "+919999121032",
+        "date": "2024-02-02T14:22:11.000Z",
+        "timestamp": 1706883731,
+        "body": "hello",
+        "chat": {
+            "id": "918789863326@c.us",
+            "date": "2024-02-02T14:20:31.000Z",
+            "type": "chat",
+            "status": "pending",
+            "waStatus": "active",
+            "firstMessageAt": "2024-02-02T13:51:30.000Z",
+            "lastMessageAt": "2024-02-02T14:22:11.000Z",
+            "lastInboundMessageAt": "2024-02-02T14:22:11.000Z",
+            "lastAutoReply": null,
+            "lastAutoReplyAt": null,
+            "stats": {
+                "notes": 0,
+                "localMessages": 8,
+                "inboundMessages": 0,
+                "outboundMessages": 0
+            },
+            "labels": [],
+            "owner": {
+                "agent": null
+            },
+            "contact": {
+                "wid": "918789863326@c.us",
+                "type": "user",
+                "displayName": "ऋषव",
+                "syncedAt": "2024-02-02T14:13:14.266Z",
+                "phone": "+918789863326",
+                "image": {
+                    "url": "https://pps.whatsapp.net/v/t61.24694-24/413653808_1414418886123964_5451521572107872360_n.jpg?ccb=11-4&oh=01_AdRo-mR6MA1bEVgezKGghlzHXe3JCMgcFEjbyuqBfLAGQw&oe=65CA181D&_nc_sid=e6ed6c&_nc_cat=103"
+                },
+                "info": {
+                    "languages": [],
+                    "links": [],
+                    "fullName": null
+                },
+                "locationInfo": {
+                    "alpha2": "IN",
+                    "alpha3": "IND",
+                    "countryCallingCodes": [
+                        "+91"
+                    ],
+                    "currencies": [
+                        "INR"
+                    ],
+                    "emoji": "🇮🇳",
+                    "ioc": "IND",
+                    "languages": [
+                        {
+                            "code": "ENG",
+                            "iso": "en",
+                            "name": "English",
+                            "nativeName": "English"
+                        },
+                        {
+                            "code": "HIN",
+                            "iso": "hi",
+                            "name": "Hindi",
+                            "nativeName": "हिन्दी, हिंदी"
+                        }
+                    ],
+                    "name": "India",
+                    "status": "assigned"
+                },
+                "metadata": []
+            }
+        },
+        "events": {},
+        "meta": {
+            "rtl": false,
+            "containsEmoji": false,
+            "isGif": false,
+            "isStar": false,
+            "isGroup": false,
+            "isChannel": false,
+            "isForwarded": false,
+            "isEphemeral": false,
+            "isNotification": false,
+            "isLive": false,
+            "isBroadcast": false,
+            "isBizNotification": false,
+            "isDoc": false,
+            "isLinkPreview": false,
+            "isPSA": false,
+            "isRevoked": false,
+            "isUnreadType": false,
+            "isFailed": false,
+            "notifyName": "ऋषव",
+            "source": "ios",
+            "isFirstMessage": false
+        }
+    }
+}
+  
+
+
+
+
+  ---------------------------------------
+
+  Image From user
+
+  ---------------------------------------
+
+  {
+    "id": "3A03380B8B94624C2036",
+    "object": "message",
+    "event": "message:in:new",
+    "created": 1706884081,
+    "device": {
+        "id": "646f5b15ab5ee824ea9bdd5f",
+        "phone": "+919999121032",
+        "alias": "DRD",
+        "plan": "io-business",
+        "version": 1
+    },
+    "data": {
+        "id": "3A03380B8B94624C2036",
+        "type": "image",
+        "flow": "inbound",
+        "status": "active",
+        "ack": "delivered",
+        "from": "918789863326@c.us",
+        "fromNumber": "+918789863326",
+        "to": "919999121032@c.us",
+        "toNumber": "+919999121032",
+        "date": "2024-02-02T14:28:00.000Z",
+        "timestamp": 1706884080,
+        "chat": {
+            "id": "918789863326@c.us",
+            "date": "2024-02-02T14:28:00.000Z",
+            "type": "chat",
+            "status": "pending",
+            "waStatus": "active",
+            "firstMessageAt": "2024-02-02T13:51:30.000Z",
+            "lastMessageAt": "2024-02-02T14:28:00.000Z",
+            "lastInboundMessageAt": "2024-02-02T14:28:00.000Z",
+            "lastAutoReply": null,
+            "lastAutoReplyAt": null,
+            "stats": {
+                "notes": 0,
+                "localMessages": 11,
+                "inboundMessages": 0,
+                "outboundMessages": 0
+            },
+            "labels": [],
+            "owner": {
+                "agent": null
+            },
+            "contact": {
+                "wid": "918789863326@c.us",
+                "type": "user",
+                "displayName": "ऋषव",
+                "syncedAt": "2024-02-02T14:24:26.465Z",
+                "phone": "+918789863326",
+                "image": {
+                    "url": "https://pps.whatsapp.net/v/t61.24694-24/413653808_1414418886123964_5451521572107872360_n.jpg?ccb=11-4&oh=01_AdRo-mR6MA1bEVgezKGghlzHXe3JCMgcFEjbyuqBfLAGQw&oe=65CA181D&_nc_sid=e6ed6c&_nc_cat=103"
+                },
+                "info": {
+                    "languages": [],
+                    "links": [],
+                    "fullName": null
+                },
+                "locationInfo": {
+                    "alpha2": "IN",
+                    "alpha3": "IND",
+                    "countryCallingCodes": [
+                        "+91"
+                    ],
+                    "currencies": [
+                        "INR"
+                    ],
+                    "emoji": "🇮🇳",
+                    "ioc": "IND",
+                    "languages": [
+                        {
+                            "code": "ENG",
+                            "iso": "en",
+                            "name": "English",
+                            "nativeName": "English"
+                        },
+                        {
+                            "code": "HIN",
+                            "iso": "hi",
+                            "name": "Hindi",
+                            "nativeName": "हिन्दी, हिंदी"
+                        }
+                    ],
+                    "name": "India",
+                    "status": "assigned"
+                },
+                "metadata": []
+            }
+        },
+        "media": {
+            "id": "65bcfbf19e6a7f000b692fdd",
+            "message": "3A03380B8B94624C2036",
+            "chat": "918789863326@c.us",
+            "flow": "in",
+            "status": "new",
+            "caption": null,
+            "type": "image",
+            "size": 40210,
+            "mime": "image/jpeg",
+            "extension": "jpeg",
+            "filename": "image_in_918789863326@c.us_3A03380B8B94624C2036.jpeg",
+            "createdAt": "2024-02-02T14:28:01.166Z",
+            "expiresAt": "2024-02-09T14:28:01.165Z",
+            "meta": {
+                "hasPreview": true,
+                "aspectRatio": 0.36
+            },
+            "stats": {
+                "downloads": 0
+            },
+            "preview": {
+                "image": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIABoDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAECBAMFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA+mkzy6iLs5YPT56zGialhKpac0cmwdJhIFAH/8QAGxEBAAEFAQAAAAAAAAAAAAAAATEAEBEgIUH/2gAIAQIBAT8Ac+WEJKZ5v//EABkRAQACAwAAAAAAAAAAAAAAAAEAQRARIP/aAAgBAwEBPwA1eEah3//EACUQAAEDAgYCAwEAAAAAAAAAAAEAAhEQEgMEEyExUUJhICJBgf/aAAgBAQABPwBF7Q60uE9VN07RCfhsOOMRxFw9oF/QimYxtDCLw0u9BHOhxk5V6ymY12k6bmR3RwkKB0miOKF25EIb+JXFHTdsSgSBwSg6fwihJuQuPkodPNCwEyhDTG8n4T9oj+1///4AAwD/2Q==",
+                "width": 26,
+                "height": 72,
+                "mime": "image/jpeg"
+            },
+            "links": {
+                "resource": "/v1/chat/646f5b15ab5ee824ea9bdd5f/files/65bcfbf19e6a7f000b692fdd",
+                "download": "/v1/chat/646f5b15ab5ee824ea9bdd5f/files/65bcfbf19e6a7f000b692fdd/download",
+                "chat": "/v1/chat/646f5b15ab5ee824ea9bdd5f/chats/918789863326@c.us",
+                "contact": "/v1/chat/646f5b15ab5ee824ea9bdd5f/contacts/918789863326@c.us",
+                "message": "/v1/chat/646f5b15ab5ee824ea9bdd5f/messages/3A03380B8B94624C2036"
+            }
+        },
+        "events": {},
+        "meta": {
+            "rtl": false,
+            "containsEmoji": false,
+            "isGif": false,
+            "isStar": false,
+            "isGroup": false,
+            "isChannel": false,
+            "isForwarded": true,
+            "isEphemeral": false,
+            "isNotification": false,
+            "isLive": false,
+            "isBroadcast": false,
+            "isBizNotification": false,
+            "isDoc": false,
+            "isLinkPreview": false,
+            "isPSA": false,
+            "isRevoked": false,
+            "isUnreadType": false,
+            "isFailed": false,
+            "notifyName": "ऋषव",
+            "source": "ios",
+            "isFirstMessage": false
+        }
+    }
